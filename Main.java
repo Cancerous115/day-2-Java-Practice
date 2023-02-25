@@ -5,3 +5,12 @@ class Main {
     System.out.println("I am" + age + "Years old");
   }
 }
+
+
+class HelloWorld{
+  public static void main(String[]args){
+    int age;
+    age =49;
+    System.out.println("I am"+ age + "Years old");
+  }
+}
